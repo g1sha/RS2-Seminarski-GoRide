@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T10:41:55.265Z" agent="5.0 (Windows)" etag="W4TYGazV-x_fUNY1nn1R" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T10:42:59.335Z" agent="5.0 (Windows)" etag="2iZTuLKRd-GMZ8sw5lNc" version="20.0.4" type="github">
   <diagram id="LalK_oJfabx4UR3zuxyZ" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,6 +60,12 @@
         </mxCell>
         <mxCell id="YAAHLTh8RJEyFXACBXn_-11" value="&lt;div&gt;Evidentiranje nove narudzbe&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/512/Tick_Mark-128.png" vertex="1" parent="1">
+          <mxGeometry x="750" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="790" y="10" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
