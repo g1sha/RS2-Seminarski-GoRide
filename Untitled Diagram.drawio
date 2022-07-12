@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T10:42:59.335Z" agent="5.0 (Windows)" etag="2iZTuLKRd-GMZ8sw5lNc" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T10:47:20.743Z" agent="5.0 (Windows)" etag="N_pBInFIVY-tQYBoxEoW" version="20.0.4" type="github">
   <diagram id="LalK_oJfabx4UR3zuxyZ" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,30 @@
         </mxCell>
         <mxCell id="YAAHLTh8RJEyFXACBXn_-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
           <mxGeometry x="790" y="10" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-23" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="145" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="215" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="285" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="355" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="425" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="495" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="565" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YAAHLTh8RJEyFXACBXn_-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/onebit/PNG/onebit_33.png" vertex="1" parent="1">
+          <mxGeometry x="470" y="635" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
