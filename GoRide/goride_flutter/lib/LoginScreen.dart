@@ -1,6 +1,7 @@
 // ignore_for_file: avoid_unnecessary_containers, prefer_const_constructors
 
 import 'package:flutter/material.dart';
+import 'package:goride_flutter/RegisterScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -140,7 +141,11 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
               SizedBox(height: 20),
               TextButton(
-                onPressed: () => {},
+                onPressed: () => Navigator.of(context).push(
+                  MaterialPageRoute(builder: (_) {
+                    return RegisterScreen();
+                  }),
+                ),
                 child: Text(
                   "Nemate račun ?",
                   style: TextStyle(color: Colors.white, fontSize: 17),

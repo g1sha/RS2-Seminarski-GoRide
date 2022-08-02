@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "goride_flutter",
+            "cwd": "goride_flutter",
+            "request": "launch",
+            "type": "dart",
+            "program":"lib/LoginScreen.dart"
+        },
+        {
+            "name": "goride_flutter (profile mode)",
+            "cwd": "goride_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "goride_flutter (release mode)",
+            "cwd": "goride_flutter",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
